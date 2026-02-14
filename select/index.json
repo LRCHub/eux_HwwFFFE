@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青く、春",
+  "base_artist": "Maverick Mom",
+  "createdAt": "2026-02-14T03:25:19.066988Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青く、春",
+      "artist": "Maverick Mom",
+      "has_synced": false,
+      "path": "select/pl_01_青く、春_Maverick_Mom.txt"
+    }
+  ]
+}
